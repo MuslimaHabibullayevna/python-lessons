@@ -6,6 +6,6 @@ c = int(input("Uchinchi raqaqamni kiriting: "))
 
 d = int(input("To'rtinchi raqamni kiriting: "))
 
-e = (a + b) / (c + d)
+e = (a + b) / (c + d) git
 
 print("Javob:", e)
